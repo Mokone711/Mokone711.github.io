@@ -47,7 +47,7 @@ Key questions explored(ASK):
 3. Create marketing campaigns focused on leisure riders
 
 ## Visualizations
-<img width="428" height="233" alt="image" src="https://github.com/user-attachments/assets/ac97fb6e-2951-4334-8ca8-cb046db5d43c" />
+<img width="479" height="218" alt="image" src="https://github.com/user-attachments/assets/12cc9b4c-a3af-4492-bc02-50ab5c227c23" />
 
 
 
