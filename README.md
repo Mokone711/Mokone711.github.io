@@ -24,7 +24,7 @@ Public bike-share trip data (Divvy dataset).
 * Removed duplicates
 * Handled missing values
 * Standardized date formats
-* Created new columns (ride_length, day_of_week)
+* Created new columns (ride_length, day_of_week,data_type)
 
 ## 📈 Analysis
 
@@ -32,9 +32,7 @@ Key questions explored(ASK):
 
 * How do annual members and casual riders use Cyclistic bikes differently?
 * Why would casual riders buy Cyclistic annual memberships?
-* How can Cyclistic use didgital ,edia to influence casual riders to become members
-* When do they ride (time, day, season)?
-* How long are their trips?
+* How can Cyclistic use didgital ,media to influence casual riders to become members?
 
 ## 💡 Key Insights
 
@@ -47,6 +45,10 @@ Key questions explored(ASK):
 1. Offer weekend promotions targeting casual riders
 2. Introduce discounted membership trials
 3. Create marketing campaigns focused on leisure riders
+
+## Visualizations
+
+
 
 
 👤 Author: Machoene Moichela
