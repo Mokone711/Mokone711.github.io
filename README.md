@@ -50,6 +50,9 @@ Key questions explored(ASK):
 <img width="479" height="218" alt="image" src="https://github.com/user-attachments/assets/12cc9b4c-a3af-4492-bc02-50ab5c227c23" />
 
 
+<img width="492" height="215" alt="image" src="https://github.com/user-attachments/assets/c72cde55-eefd-48bc-9115-fd117c53fff0" />
+
+
 
 
 👤 Author: Machoene Moichela
